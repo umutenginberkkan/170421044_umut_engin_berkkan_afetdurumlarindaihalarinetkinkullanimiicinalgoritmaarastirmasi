@@ -16,19 +16,6 @@ Afet bölgelerinde hızlı ve etkili tarama yapılabilmesi amacıyla farklı opt
 - Colcon - ROS 2 paket derleyicisi
 - Gazebo (opsiyonel) - Gelişmiş simülasyon ortamı
 
-## Proje Klasör Yapısı
-
-```
-Proje34/
-├── gui/                  # PyQt5 tabanlı simülasyon arayüzü
-├── uav_simulator/        # ROS 2 tabanlı İHA simülasyon düğümü
-├── rviz/                 # RViz2 konfigürasyon dosyaları
-├── launch/               # ROS 2 launch dosyaları
-├── data/                 # Simülasyon çıktıları (CSV, log)
-├── README.md             # Bu döküman
-└── requirements.txt      # Python bağımlılıkları
-```
-
 
 ## Simülasyonu Başlatma
 
