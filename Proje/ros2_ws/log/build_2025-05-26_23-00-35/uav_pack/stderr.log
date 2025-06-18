@@ -1,0 +1,5 @@
+  File "/home/ubuntu22/Desktop/Proje/rosR/Proje/ros2_ws/install/uav_pack/lib/python3.10/site-packages/uav_pack/uav_node.py", line 769
+    elif: self.algorithm == 5:
+        ^
+SyntaxError: invalid syntax
+

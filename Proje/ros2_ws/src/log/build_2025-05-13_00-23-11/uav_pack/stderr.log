@@ -1,0 +1,5 @@
+  File "/home/redkedy/ros2_ws/src/install/uav_pack/lib/python3.10/site-packages/uav_pack/uav_node.py", line 224
+    pbest = [Point(); pbest[i].x=pos[i].x; pbest[i].y=pos[i].y; pbest[i].z=pos[i].z
+                    ^
+SyntaxError: invalid syntax
+

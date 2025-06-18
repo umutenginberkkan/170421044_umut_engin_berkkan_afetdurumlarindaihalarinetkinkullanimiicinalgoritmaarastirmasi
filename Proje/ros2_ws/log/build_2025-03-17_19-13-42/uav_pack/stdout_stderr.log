@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing uav_pack.egg-info/PKG-INFO
+writing dependency_links to uav_pack.egg-info/dependency_links.txt
+writing entry points to uav_pack.egg-info/entry_points.txt
+writing requirements to uav_pack.egg-info/requires.txt
+writing top-level names to uav_pack.egg-info/top_level.txt
+reading manifest file 'uav_pack.egg-info/SOURCES.txt'
+writing manifest file 'uav_pack.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/redkedy/ros2_ws/install/uav_pack/lib/python3.10/site-packages/uav-pack.egg-link (link to .)
+Installing my_node = uav_pack.my_node:mainuav_node script to /home/redkedy/ros2_ws/install/uav_pack/lib/uav_pack
+
+Installed /home/redkedy/ros2_ws/build/uav_pack
+running symlink_data
+symbolically linking /home/redkedy/ros2_ws/build/uav_pack/resource/uav_pack -> /home/redkedy/ros2_ws/install/uav_pack/share/ament_index/resource_index/packages
+symbolically linking /home/redkedy/ros2_ws/build/uav_pack/package.xml -> /home/redkedy/ros2_ws/install/uav_pack/share/uav_pack

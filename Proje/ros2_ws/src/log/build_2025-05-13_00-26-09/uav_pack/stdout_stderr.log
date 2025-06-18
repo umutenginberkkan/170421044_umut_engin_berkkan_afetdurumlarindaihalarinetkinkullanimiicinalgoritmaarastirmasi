@@ -1,0 +1,29 @@
+running egg_info
+writing ../build/uav_pack/uav_pack.egg-info/PKG-INFO
+writing dependency_links to ../build/uav_pack/uav_pack.egg-info/dependency_links.txt
+writing entry points to ../build/uav_pack/uav_pack.egg-info/entry_points.txt
+writing requirements to ../build/uav_pack/uav_pack.egg-info/requires.txt
+writing top-level names to ../build/uav_pack/uav_pack.egg-info/top_level.txt
+reading manifest file '../build/uav_pack/uav_pack.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../build/uav_pack/uav_pack.egg-info/SOURCES.txt'
+running build
+running build_py
+copying uav_pack/uav_node.py -> /home/redkedy/ros2_ws/src/build/uav_pack/build/lib/uav_pack
+running install
+running install_lib
+copying /home/redkedy/ros2_ws/src/build/uav_pack/build/lib/uav_pack/uav_node.py -> /home/redkedy/ros2_ws/src/install/uav_pack/lib/python3.10/site-packages/uav_pack
+byte-compiling /home/redkedy/ros2_ws/src/install/uav_pack/lib/python3.10/site-packages/uav_pack/uav_node.py to uav_node.cpython-310.pyc
+  File "/home/redkedy/ros2_ws/src/install/uav_pack/lib/python3.10/site-packages/uav_pack/uav_node.py", line 224
+    pbest = [Point(); pbest[i].x=pos[i].x; pbest[i].y=pos[i].y; pbest[i].z=pos[i].z for i in range(n)]
+                    ^
+SyntaxError: invalid syntax
+
+running install_data
+running install_egg_info
+removing '/home/redkedy/ros2_ws/src/install/uav_pack/lib/python3.10/site-packages/uav_pack-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/uav_pack/uav_pack.egg-info to /home/redkedy/ros2_ws/src/install/uav_pack/lib/python3.10/site-packages/uav_pack-0.0.0-py3.10.egg-info
+running install_scripts
+Installing my_node script to /home/redkedy/ros2_ws/src/install/uav_pack/lib/uav_pack
+Installing uav_node script to /home/redkedy/ros2_ws/src/install/uav_pack/lib/uav_pack
+writing list of installed files to '/home/redkedy/ros2_ws/src/build/uav_pack/install.log'

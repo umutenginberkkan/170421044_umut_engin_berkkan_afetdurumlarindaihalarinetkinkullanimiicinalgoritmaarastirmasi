@@ -1,0 +1,13 @@
+[33mCMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CATKIN_INSTALL_INTO_PREFIX_ROOT
+
+[0m
+[01m[K/home/ubuntu22/Desktop/New Folder/ros2_ws/src/rviz_gui_cpp/src/main.cpp:9:10:[m[K [01;31m[Kfatal error: [m[Krviz/render_panel.h: No such file or directory
+    9 | #include [01;31m[K<rviz/render_panel.h>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+gmake[2]: *** [CMakeFiles/rviz_gui_node.dir/build.make:90: CMakeFiles/rviz_gui_node.dir/src/main.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:138: CMakeFiles/rviz_gui_node.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

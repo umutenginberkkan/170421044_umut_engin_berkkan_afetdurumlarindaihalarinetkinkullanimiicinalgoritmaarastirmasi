@@ -1,0 +1,19 @@
+[0.341s] Invoking command in '/home/redkedy/ros2_ws/build/uav_pack': PYTHONPATH=/home/redkedy/ros2_ws/build/uav_pack/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/redkedy/ros2_ws/install/uav_pack/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/redkedy/ros2_ws/build/uav_pack/build --no-deps symlink_data --force
+[0.487s] running develop
+[0.572s] running egg_info
+[0.573s] writing uav_pack.egg-info/PKG-INFO
+[0.573s] writing dependency_links to uav_pack.egg-info/dependency_links.txt
+[0.573s] writing entry points to uav_pack.egg-info/entry_points.txt
+[0.573s] writing requirements to uav_pack.egg-info/requires.txt
+[0.573s] writing top-level names to uav_pack.egg-info/top_level.txt
+[0.574s] reading manifest file 'uav_pack.egg-info/SOURCES.txt'
+[0.574s] writing manifest file 'uav_pack.egg-info/SOURCES.txt'
+[0.575s] running build_ext
+[0.575s] Creating /home/redkedy/ros2_ws/install/uav_pack/lib/python3.10/site-packages/uav-pack.egg-link (link to .)
+[0.576s] Installing my_node = uav_pack.my_node:mainuav_node script to /home/redkedy/ros2_ws/install/uav_pack/lib/uav_pack
+[0.576s] 
+[0.576s] Installed /home/redkedy/ros2_ws/build/uav_pack
+[0.576s] running symlink_data
+[0.576s] symbolically linking /home/redkedy/ros2_ws/build/uav_pack/resource/uav_pack -> /home/redkedy/ros2_ws/install/uav_pack/share/ament_index/resource_index/packages
+[0.576s] symbolically linking /home/redkedy/ros2_ws/build/uav_pack/package.xml -> /home/redkedy/ros2_ws/install/uav_pack/share/uav_pack
+[0.594s] Invoked command in '/home/redkedy/ros2_ws/build/uav_pack' returned '0': PYTHONPATH=/home/redkedy/ros2_ws/build/uav_pack/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/redkedy/ros2_ws/install/uav_pack/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/redkedy/ros2_ws/build/uav_pack/build --no-deps symlink_data --force

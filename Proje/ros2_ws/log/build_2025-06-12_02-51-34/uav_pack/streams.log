@@ -1,0 +1,23 @@
+[0.359s] Invoking command in '/home/redkedy/Downloads/Proje3/Proje/Proje/ros2_ws/src/uav_pack': PYTHONPATH=/home/redkedy/Downloads/Proje3/Proje/Proje/ros2_ws/build/uav_pack/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/redkedy/Downloads/Proje3/Proje/Proje/ros2_ws/install/uav_pack/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/uav_pack build --build-base /home/redkedy/Downloads/Proje3/Proje/Proje/ros2_ws/build/uav_pack/build install --record /home/redkedy/Downloads/Proje3/Proje/Proje/ros2_ws/build/uav_pack/install.log --single-version-externally-managed install_data
+[0.497s] running egg_info
+[0.498s] writing ../../build/uav_pack/uav_pack.egg-info/PKG-INFO
+[0.498s] writing dependency_links to ../../build/uav_pack/uav_pack.egg-info/dependency_links.txt
+[0.498s] writing entry points to ../../build/uav_pack/uav_pack.egg-info/entry_points.txt
+[0.498s] writing requirements to ../../build/uav_pack/uav_pack.egg-info/requires.txt
+[0.498s] writing top-level names to ../../build/uav_pack/uav_pack.egg-info/top_level.txt
+[0.499s] reading manifest file '../../build/uav_pack/uav_pack.egg-info/SOURCES.txt'
+[0.499s] adding license file 'LICENSE'
+[0.500s] writing manifest file '../../build/uav_pack/uav_pack.egg-info/SOURCES.txt'
+[0.500s] running build
+[0.500s] running build_py
+[0.500s] running install
+[0.500s] running install_lib
+[0.501s] running install_data
+[0.501s] running install_egg_info
+[0.502s] removing '/home/redkedy/Downloads/Proje3/Proje/Proje/ros2_ws/install/uav_pack/lib/python3.10/site-packages/uav_pack-0.0.0-py3.10.egg-info' (and everything under it)
+[0.502s] Copying ../../build/uav_pack/uav_pack.egg-info to /home/redkedy/Downloads/Proje3/Proje/Proje/ros2_ws/install/uav_pack/lib/python3.10/site-packages/uav_pack-0.0.0-py3.10.egg-info
+[0.503s] running install_scripts
+[0.516s] Installing my_node script to /home/redkedy/Downloads/Proje3/Proje/Proje/ros2_ws/install/uav_pack/lib/uav_pack
+[0.517s] Installing uav_node script to /home/redkedy/Downloads/Proje3/Proje/Proje/ros2_ws/install/uav_pack/lib/uav_pack
+[0.517s] writing list of installed files to '/home/redkedy/Downloads/Proje3/Proje/Proje/ros2_ws/build/uav_pack/install.log'
+[0.534s] Invoked command in '/home/redkedy/Downloads/Proje3/Proje/Proje/ros2_ws/src/uav_pack' returned '0': PYTHONPATH=/home/redkedy/Downloads/Proje3/Proje/Proje/ros2_ws/build/uav_pack/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/redkedy/Downloads/Proje3/Proje/Proje/ros2_ws/install/uav_pack/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/uav_pack build --build-base /home/redkedy/Downloads/Proje3/Proje/Proje/ros2_ws/build/uav_pack/build install --record /home/redkedy/Downloads/Proje3/Proje/Proje/ros2_ws/build/uav_pack/install.log --single-version-externally-managed install_data

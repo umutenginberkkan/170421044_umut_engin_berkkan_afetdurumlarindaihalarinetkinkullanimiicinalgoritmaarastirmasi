@@ -1,0 +1,11 @@
+/home/ubuntu22/Desktop/New Folder/ros2_ws/src/build/rviz_gui/CMakeFiles/uninstall.dir
+/home/ubuntu22/Desktop/New Folder/ros2_ws/src/build/rviz_gui/CMakeFiles/rviz_gui_uninstall.dir
+/home/ubuntu22/Desktop/New Folder/ros2_ws/src/build/rviz_gui/CMakeFiles/rviz_gui_node.dir
+/home/ubuntu22/Desktop/New Folder/ros2_ws/src/build/rviz_gui/CMakeFiles/test.dir
+/home/ubuntu22/Desktop/New Folder/ros2_ws/src/build/rviz_gui/CMakeFiles/edit_cache.dir
+/home/ubuntu22/Desktop/New Folder/ros2_ws/src/build/rviz_gui/CMakeFiles/rebuild_cache.dir
+/home/ubuntu22/Desktop/New Folder/ros2_ws/src/build/rviz_gui/CMakeFiles/list_install_components.dir
+/home/ubuntu22/Desktop/New Folder/ros2_ws/src/build/rviz_gui/CMakeFiles/install.dir
+/home/ubuntu22/Desktop/New Folder/ros2_ws/src/build/rviz_gui/CMakeFiles/install/local.dir
+/home/ubuntu22/Desktop/New Folder/ros2_ws/src/build/rviz_gui/CMakeFiles/install/strip.dir
+/home/ubuntu22/Desktop/New Folder/ros2_ws/src/build/rviz_gui/CMakeFiles/rviz_gui_node_autogen.dir

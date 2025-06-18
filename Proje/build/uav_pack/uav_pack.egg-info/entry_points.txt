@@ -1,0 +1,4 @@
+[console_scripts]
+my_node = uav_pack.my_node:main
+uav_node = uav_pack.uav_node:main
+

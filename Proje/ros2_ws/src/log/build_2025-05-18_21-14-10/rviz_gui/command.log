@@ -1,0 +1,4 @@
+Invoking command in '/home/ubuntu22/Desktop/New Folder/ros2_ws/src/build/rviz_gui': /usr/bin/cmake /home/ubuntu22/Desktop/New Folder/ros2_ws/src/rviz_gui_cpp -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/ubuntu22/Desktop/New Folder/ros2_ws/src/install/rviz_gui
+Invoked command in '/home/ubuntu22/Desktop/New Folder/ros2_ws/src/build/rviz_gui' returned '0': /usr/bin/cmake /home/ubuntu22/Desktop/New Folder/ros2_ws/src/rviz_gui_cpp -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/ubuntu22/Desktop/New Folder/ros2_ws/src/install/rviz_gui
+Invoking command in '/home/ubuntu22/Desktop/New Folder/ros2_ws/src/build/rviz_gui': /usr/bin/cmake --build /home/ubuntu22/Desktop/New Folder/ros2_ws/src/build/rviz_gui -- -j20 -l20
+Invoked command in '/home/ubuntu22/Desktop/New Folder/ros2_ws/src/build/rviz_gui' returned '2': /usr/bin/cmake --build /home/ubuntu22/Desktop/New Folder/ros2_ws/src/build/rviz_gui -- -j20 -l20
